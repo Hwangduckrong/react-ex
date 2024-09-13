@@ -1,6 +1,7 @@
 //import 라이브러리
 import React from 'react';
 import '../css/ex01.css';
+import{Link} from 'react-router-dom'
 //주석
 /*
 주석
@@ -33,6 +34,7 @@ const Ex01 = () => {
         <img src="./images/JungWooSung.jpg" alt="정우성 사진" />  
             
         <br/>
+        <a href='http://localhost:3001/ex00'>정우성 나무위키 바로가기</a>
 
         <table border="1">
         <colgroup>
