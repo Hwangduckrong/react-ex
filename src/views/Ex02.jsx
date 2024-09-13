@@ -1,7 +1,7 @@
 //import 라이브러리
 import React from 'react';
-import '../css/reset.css';
-import '../css/ex02.css';
+//import '../css/reset.css';
+
 import { Link } from 'react-router-dom'
 
 

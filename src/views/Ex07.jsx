@@ -16,10 +16,6 @@ const Ex07 = () => {
             return preNo+1;
         });
     
-    const handleZero()=>{
-        setNo((0)=>{
-
-        });
     
     
     };
