@@ -7,7 +7,7 @@ const Ex00 = ()=>{
 
    const element=<h1>안녕하세요</h1>;
    
-        return(
+        return(   
             <>
             <p>안녕하세요</p>
             </>
