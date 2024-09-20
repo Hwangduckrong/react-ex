@@ -47,7 +47,7 @@ const Ex08 = () => {
     };
     return (
         <>
-            <form action="/ex01" method="get" onSubmit={handleSubmit}>
+            <form action="" method="get" onSubmit={handleSubmit}>
                 <div>
                     <label htmlFor="txt-email">이메일</label>
                     <input id="txt-email" type="text" name="" value={email} onChange={handleEmailChange} />
